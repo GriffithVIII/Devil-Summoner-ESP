@@ -9,7 +9,7 @@ En este repositorio se publicará la guía para parchear e información relacion
 
 <img src="/assets/banner.png"></img>
 
-| [Descargar la traducción](#descargar-la-traducción) - [Instrucciones](#instrucciones) - [Dumpear el juego](#dumpear-el-juego) - [Capturas](#capturas) |
+| [Descargar la traducción](#descargar-la-traducción) - [Instrucciones](#instrucciones) - [Dumpear el juego](#dumpear-el-juego) - [Parcheador en Linux](#parcheador-en-linux) - [Capturas](#capturas) |
 :----------------------------------------------------------: |
 | [Características](#características) - [Cambios con respecto al original](#cambios-con-respecto-al-original) - [Créditos](#créditos) - [堕落王](#堕落王)  |
 
@@ -28,7 +28,7 @@ debisamaES-v1.0: [GITHUB (Windows)](https://github.com/GriffithVIII/Devil-Summon
 5. Darle clic a **Parchear**.
 6. Si todo va bien, la ISO parcheada tendrá al final del nombre **_ES.iso**.
 
-### Parchear en Linux
+## Parcheador en Linux
 Si tienes problemas o el error **"No se ha podido encontrar el parche"** o defectos visuales lee las siguientes instrucciones:
 
 - Si utilizas Niri: Define la opción **prefer-no-csd** con **false**.
@@ -45,7 +45,7 @@ Para dumpear el juego, puedes leer el siguiente [tutorial](https://www.ppsspp.or
 6. Si todo va bien, en tu PC verás un dispositivo externo el cual contendrá el juego en formato **ISO**.
 
 ## Capturas
-<img src="/assets/2.png" width="50%"></img> <img src="/assets/3.png" width="50%"></img> <img src="/assets/4.png" width="50%"></img> <img src="/assets/5.png" width="50%"></img> <img src="/assets/6.png" width="50%"></img> <img src="/assets/33.png" width="50%"></img> <img src="/assets/28.png" width="50%"></img> <img src="/assets/33.png" width="50%"></img> <img src="/assets/32.png" width="50%"></img> <img src="/assets/31.png" width="50%"></img> <img src="/assets/36.png" width="50%"></img> <img src="/assets/24.png" width="50%"></img> <img src="/assets/25.png" width="50%"></img> <img src="/assets/35.png" width="50%"></img> <img src="/assets/34.png" width="50%"></img> <img src="/assets/17.png" width="50%"></img> <img src="/assets/8.png" width="50%"></img> <img src="/assets/9.png" width="50%"></img> <img src="/assets/10.png" width="50%"></img> <img src="/assets/11.png" width="50%"></img> <img src="/assets/12.png" width="50%"></img> <img src="/assets/21.png" width="50%"></img> <img src="/assets/14.png" width="50%"></img> <img src="/assets/15.png" width="50%"></img> <img src="/assets/16.png" width="50%"></img> <img src="/assets/17.png" width="50%"></img>
+<img src="/assets/2.png" width="46%"></img> <img src="/assets/3.png" width="46%"></img> <img src="/assets/4.png" width="46%"></img> <img src="/assets/5.png" width="46%"></img> <img src="/assets/6.png" width="46%"></img> <img src="/assets/33.png" width="46%"></img> <img src="/assets/28.png" width="46%"></img> <img src="/assets/33.png" width="46%"></img> <img src="/assets/32.png" width="46%"></img> <img src="/assets/31.png" width="46%"></img> <img src="/assets/36.png" width="46%"></img> <img src="/assets/24.png" width="46%"></img> <img src="/assets/25.png" width="46%"></img> <img src="/assets/35.png" width="46%"></img> <img src="/assets/34.png" width="46%"></img> <img src="/assets/17.png" width="46%"></img> <img src="/assets/8.png" width="46%"></img> <img src="/assets/9.png" width="46%"></img> <img src="/assets/10.png" width="46%"></img> <img src="/assets/11.png" width="46%"></img> <img src="/assets/12.png" width="46%"></img> <img src="/assets/21.png" width="46%"></img> <img src="/assets/14.png" width="46%"></img> <img src="/assets/15.png" width="46%"></img> <img src="/assets/16.png" width="46%"></img> <img src="/assets/17.png" width="46%"></img>
 
 ## Características
 A continuación se listarán las características del parche.
@@ -73,7 +73,7 @@ del código del juego en el ejecutable.
 - Conversión de variables en mayúsculas cuando un demonio de personalidad bestia habla.
 - Bug de un crash debido a una animación en PS VITA arreglado.
 
-<img src="/assets/19.png" width="50%"></img> <img src="/assets/13.png" width="50%"></img> <img src="/assets/18.png" width="50%"></img> <img src="/assets/22.png" width="50%"></img> <img src="/assets/23.png" width="50%"></img> <img src="/assets/15.png" width="50%"></img> 
+<img src="/assets/19.png" width="46%"></img> <img src="/assets/13.png" width="46%"></img> <img src="/assets/18.png" width="46%"></img> <img src="/assets/22.png" width="46%"></img> <img src="/assets/23.png" width="46%"></img> <img src="/assets/15.png" width="46%"></img> 
 
 ## Créditos
 **Romhacking y líder del proyecto**  
