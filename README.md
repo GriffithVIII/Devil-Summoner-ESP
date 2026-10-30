@@ -121,8 +121,8 @@ Okoshi
 Hagane
 
 **Assets del parcheador:**  
-@dessxericas  
-@yummy_lammy
+[@dessxericas](https://x.com/dessxericas)  
+[@yummy_lammy](https://x.com/Yummy_Lammy)
 
 ## 堕落王
 <img src="/assets/1.png"></img> 
