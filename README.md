@@ -11,18 +11,18 @@ En este repositorio se publicará la guía para parchear e información relacion
 
 | [Descargar la traducción](#descargar-la-traducción) - [Instrucciones](#instrucciones) - [Dumpear el juego](#dumpear-el-juego) - [Parcheador en Linux](#parcheador-en-linux) - [Capturas](#capturas) |
 :----------------------------------------------------------: |
-| [Características](#características) - [Cambios con respecto al original](#cambios-con-respecto-al-original) - [Créditos](#créditos) - [堕落王](#堕落王)  |
+| [Historial de versiones](#historial-de-versiones) - [Características](#características) - [Cambios con respecto al original](#cambios-con-respecto-al-original) - [Créditos](#créditos) - [堕落王](#堕落王)  |
 
 ## Descargar la traducción
 El parche estará alojado en GitHub y TraduSquare:
 
-debisamaES-v1.0: [GITHUB (Windows)](https://github.com/GriffithVIII/Devil-Summoner-ESP/releases/download/v1.0/debisamaES-v1.0-win-x64.zip) - [GITHUB (Linux)](https://github.com/GriffithVIII/Devil-Summoner-ESP/releases/download/v1.0/debisamaES-v1.0-linux.zip) - [MIRROR (Windows)](https://patches.tradusquare.es/amala/smt-devil-summoner/debisamaes-v1.0-win-x64.zip) - [MIRROR (Linux)](https://patches.tradusquare.es/amala/smt-devil-summoner/debisamaes-v1.0-linux.zip)
+debisamaES-v1.1: [GITHUB (Windows)](https://github.com/GriffithVIII/Devil-Summoner-ESP/releases/download/v1.1/debisamaES-v1.1-win-x64.zip) - [GITHUB (Linux)](https://github.com/GriffithVIII/Devil-Summoner-ESP/releases/download/v1.1/debisamaES-v1.1-linux.zip) - [MIRROR (Windows)](https://patches.tradusquare.es/amala/smt-devil-summoner/debisamaes-v1.1-win-x64.zip) - [MIRROR (Linux)](https://patches.tradusquare.es/amala/smt-devil-summoner/debisamaes-v1.1-linux.zip)
 
 ## Instrucciones
 1. Descomprime el [zip](#descargar-la-traducción) con el parche.
 2. Elige un método:
     - Abre la aplicación **Parcheador.exe** (seguir con 3.).
-    - Aplica el archivo debisamaES-v1.0.xdelta de la carpeta **patch** con cualquier otro programa compatible.
+    - Aplica el archivo debisamaES-v1.1.xdelta de la carpeta **patch** con cualquier otro programa compatible.
 3. Dale clic a **Siguiente >**
 4. Darle clic a **Examinar** y selecciona tu copia del juego original en formato ISO.
 5. Darle clic a **Parchear**.
@@ -46,6 +46,10 @@ Para dumpear el juego, puedes leer el siguiente [tutorial](https://www.ppsspp.or
 
 ## Capturas
 <img src="/assets/2.png" width="46%"></img> <img src="/assets/3.png" width="46%"></img> <img src="/assets/4.png" width="46%"></img> <img src="/assets/5.png" width="46%"></img> <img src="/assets/6.png" width="46%"></img> <img src="/assets/33.png" width="46%"></img> <img src="/assets/28.png" width="46%"></img> <img src="/assets/33.png" width="46%"></img> <img src="/assets/32.png" width="46%"></img> <img src="/assets/31.png" width="46%"></img> <img src="/assets/36.png" width="46%"></img> <img src="/assets/24.png" width="46%"></img> <img src="/assets/25.png" width="46%"></img> <img src="/assets/35.png" width="46%"></img> <img src="/assets/34.png" width="46%"></img> <img src="/assets/17.png" width="46%"></img> <img src="/assets/8.png" width="46%"></img> <img src="/assets/9.png" width="46%"></img> <img src="/assets/10.png" width="46%"></img> <img src="/assets/11.png" width="46%"></img> <img src="/assets/12.png" width="46%"></img> <img src="/assets/21.png" width="46%"></img> <img src="/assets/14.png" width="46%"></img> <img src="/assets/15.png" width="46%"></img> <img src="/assets/16.png" width="46%"></img> <img src="/assets/17.png" width="46%"></img>
+
+## Historial de versiones
+v1.1:
+- Corregido un error del objeto Backupper en modo difícil (Thanks @EmpHighwind)
 
 ## Características
 A continuación se listarán las características del parche.
